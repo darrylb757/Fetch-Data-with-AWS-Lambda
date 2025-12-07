@@ -23,7 +23,7 @@ In this project, I will diving into the data tier, which is all about how you st
 
 ### Tools and concepts
 
-Services I used were DynamoDB, JSON, AWS Lambda, IAM, Data, CloudWatch. Key concepts I included Lambda functions, Data retrieval, Lambda function test, DynamoDB table, three-tier architecture. 
+Services I used were DynamoDB, JSON, AWS Lambda, IAM, Data, AWS SDK, CloudWatch. Key concepts I included Lambda functions, Data retrieval, Lambda function test, DynamoDB table, three-tier architecture, Set up a DynamoDB database, Create and configure an AWS Lambda function, Write code to interact with DynamoDB using the AWS SDK, Tighten permission settings for my Lambda function.
 
 ### Project reflection
 
